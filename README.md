@@ -1,5 +1,7 @@
 ## **Clone do Tetris**
 
+![image](/Imagens/pause.PNG)
+
 ### Olá,
 
 _Sempre quis recriar alguns jogos clássicos e como estava aprendendo java, resolvi codificar o tetris_.
