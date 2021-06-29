@@ -30,3 +30,8 @@ No meu projeto eu:
 
 
 Obs: As imagens utilizadas nos ícones de play, pause e restart também não são de autoria própria e não consegui achar a fonte que utilizei na época.
+
+
+### Caso esteja perdido
+A classe que começa a execução do programa é a classe launcher, caso queira entender o código recomendo começar por ela e ir seguindo o fluxo de criação de objetos e chamadas de métodos.
+
